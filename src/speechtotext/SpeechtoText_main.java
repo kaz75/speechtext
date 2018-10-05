@@ -17,7 +17,7 @@ public class SpeechtoText_main {
 		public static void main(String[] args) {
 			// TODO Auto-generated method stub
 			SpeechToText service = new SpeechToText();
-		    service.setUsernameAndPassword("99aca234-f422-4112-9a60-93f26a3dd22a", "4h44R1WPnKyr");
+		    service.setUsernameAndPassword("1618037", "1618037");
 
 		    File audio = new File("audio/katou.wav");
 		    RecognizeOptions options = null;
